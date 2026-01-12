@@ -1,0 +1,1204 @@
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6552668 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6226114 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5611996 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7687808 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6669188 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6940046 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7769654 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8838920 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11965160 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12230848 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6075580 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11564688 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14049220 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6626308 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11914278 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12626206 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7641906 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12107124 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12376980 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11617762 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5756962 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13189198 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8858662 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9807084 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5943916 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10038308 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6679044 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9949780 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7219676 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9649678 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8076246 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7856702 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9108714 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8596290 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6485038 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7383496 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6399474 reads
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 3168722 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8820324 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6735292 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6806296 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8199248 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11676374 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7185810 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9359346 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5828080 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8556102 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7324066 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8989838 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10728106 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6353602 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8448500 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8267146 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7327422 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7105802 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8074872 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5901784 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12729462 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6368260 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6593762 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6721920 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7829898 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8002756 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7876008 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5974788 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6999190 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 4367742 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7337182 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9622398 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9070230 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9723590 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10330722 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6523168 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6378756 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7499340 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10214700 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9230256 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6765904 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 4801686 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7049484 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7859498 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7890426 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9307940 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7354028 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10095106 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8161682 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6975036 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7912092 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6809408 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6285066 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 4305130 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5943226 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10566788 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9331228 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8754960 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8948620 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 4624382 reads
+[bam_sort_core] merging from 10 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 22100602 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6120150 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8792312 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6837432 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14598732 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7604998 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8171722 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7753246 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6228236 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6598326 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6663530 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7230540 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8695860 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9928356 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8674590 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6552658 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6209184 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6553060 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8005200 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6552912 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9323444 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12076658 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8094270 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6172952 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6710536 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5909080 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8526730 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6967970 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7502468 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6416780 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7926656 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6440814 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8598610 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5639612 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10650658 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6774708 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6928068 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6843202 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7147562 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8889448 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6129268 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7844970 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6354472 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8700360 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6631570 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6901276 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7171092 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7605506 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7702340 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6260214 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6848180 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12386826 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9040004 reads
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 15399976 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7405386 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6802532 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7488572 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6670846 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12309386 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6725994 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7006400 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7246208 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8398828 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7426920 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9100002 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5575774 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9222364 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7043866 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6870700 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9964786 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6625676 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7515096 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6761362 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6276702 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7059446 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6932062 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6741372 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12140402 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10554068 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6280480 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6527814 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14762778 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7361736 reads
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 15404174 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10439226 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6150972 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7486780 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12083478 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11104114 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11641052 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6308140 reads
+[bam_sort_core] merging from 10 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 24455020 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5813804 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7366594 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6341776 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5399802 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7179780 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6377760 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6708706 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8380886 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7072976 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7974078 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6709874 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6822262 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6592204 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6853496 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7294776 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11470234 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7164346 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7916882 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11556194 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8487710 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 12036606 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6776582 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13036442 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7506122 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 15463784 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11789034 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13868244 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6709612 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6513664 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7331032 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7034360 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7230070 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14124928 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7364454 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9134938 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11394738 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6183468 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6752246 reads
+[W::sam_read1_sam] Parse error at line 8123901
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291192.sam"
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6755331 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9315726 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9266280 reads
+[E::sam_parse1] SEQ and QUAL are of different length
+[W::sam_read1_sam] Parse error at line 7216350
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291191.sam"
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6029896 reads
+[E::aux_parse] Incomplete aux field
+[W::sam_read1_sam] Parse error at line 3827115
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291185.sam"
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 3201178 reads
+[W::sam_read1_sam] Parse error at line 655087
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291181.sam"
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 552816 reads
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14682834 reads
+[W::sam_read1_sam] Parse error at line 7101803
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291188.sam"
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5852657 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8195100 reads
+[E::sam_parse1] SEQ and QUAL are of different length
+[W::sam_read1_sam] Parse error at line 4610344
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291186.sam"
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 3795490 reads
+[E::sam_parse1] SEQ and QUAL are of different length
+[W::sam_read1_sam] Parse error at line 8240799
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291190.sam"
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6670499 reads
+[E::aux_parse] incomplete aux field
+[W::sam_read1_sam] Parse error at line 2772759
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291182.sam"
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 2232991 reads
+[W::sam_read1_sam] Parse error at line 7279335
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291187.sam"
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5986281 reads
+[E::sam_parse1] SEQ and QUAL are of different length
+[W::sam_read1_sam] Parse error at line 3290139
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291184.sam"
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 2574196 reads
+[E::aux_parse] incomplete aux field
+[W::sam_read1_sam] Parse error at line 8069220
+samtools view: error reading file "/home/users/nus/e1694662/scratch/recovery_proj/projects/Acute_paper/bwa_output/SRR14291189.sam"
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6444398 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 5788792 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6320576 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6553322 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6192880 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6475970 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7252852 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6960408 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9736756 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10732894 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11786896 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10750966 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6199644 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7102458 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6381258 reads
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13773634 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6197750 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11209136 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6927314 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13695448 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6560350 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10049050 reads
+[bam_sort_core] merging from 6 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 13079890 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6515776 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10937134 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8406716 reads
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6052616 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6138966 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6549284 reads
+[bam_sort_core] merging from 7 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 14970180 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8887044 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10365570 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11764226 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6310206 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 11737190 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10592442 reads
+[bam_sort_core] merging from 8 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 18581868 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8200586 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6554342 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9091492 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 8496314 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9394808 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9688994 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6751748 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 7803580 reads
+[bam_sort_core] merging from 3 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 6735058 reads
+[bam_sort_core] merging from 4 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 9454790 reads
+[bam_sort_core] merging from 5 files and 1 in-memory blocks...
+samtools fastq: Coordinate sorted file.  Read pairs may be out of order
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 10874090 reads
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+					Resource Usage Summary
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+JobId: 12451427.pbs101
+Project: personal-e1694662
+Server: pbs101
+Exit Status: 0
+Execution Nodes Used: (x1002c0s0b1n0:ncpus=12:mem=209715200kb)
+Time of Summary: 2025-12-08 18:04:42.376112
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+					General Usage
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NCPUs: 12
+CPU Time Used: 15:49:00
+CPU Time per node: x1002c0s0b1n0:(15:49:00)
+Memory: Requested(200gb), Used(9.8GB)
+Memory used per node: x1002c0s0b1n0:(10272568kb)
+Vmem Used: 11.53GB
+Walltime: Requested(24:00:00), Used(01:52:17)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

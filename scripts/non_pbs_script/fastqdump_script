@@ -1,0 +1,12 @@
+#!/bin/bash
+
+text_id=""
+prefetch_dir="$2"
+output_dir="$3"
+thread="$4"
+#Loop through Reads accession
+while IFS= read -r line;do
+  id="$line"
+  final_id="$(echo $id | sed -e 's/\r//g')"
+  fasterq-dump "$prefetch_dir/$final_id" --split-files -e "$thread" -O "$output_dir"
+done < "$text_id"

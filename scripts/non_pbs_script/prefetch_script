@@ -1,0 +1,10 @@
+#!/bin/bash
+
+dir="$1"
+output_dir="$2"
+#Loop through Reads accession
+while IFS= read -r line;do
+  id="$line"
+  final_id="$(echo $id | sed -e 's/\r//g')"
+  prefetch "$final_id" -O "$2"
+done < "$dir"
